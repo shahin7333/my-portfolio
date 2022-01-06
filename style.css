@@ -1,0 +1,133 @@
+body
+{
+    font-family: 'Sarabun', sans-serif;
+}
+.stay-focused-row
+{
+    width: 90%;
+    display: flex;
+    margin-left: 4%;
+    margin-top: 4%;
+}
+.mission-image
+{
+    width: 50%;
+}
+.image-top
+{
+    width: 70%;
+    border: 2px solid orangered;
+}
+.mission-color
+{
+    color: orangered;
+}
+#border
+{
+    border-left: 2px solid orangered;
+    padding-left: 1%;
+    font-size: 30px;
+}
+#focus-details
+{
+    padding-right: 35%;
+    padding-bottom: 10px;
+}
+.explore
+{
+    color: white;
+background-image: linear-gradient(rgb(255, 68, 0), rgb(226, 47, 2));
+padding: 10px 20px;
+border-radius: 5px;
+text-decoration: none;
+
+}
+#footer-top
+{
+    padding-top: 15px;
+}
+.my-mission
+{
+    text-align: center;
+    margin-top: 35px;
+}
+.box
+{
+    display: flex;
+    
+}
+.box-one
+{
+    width: 25%;
+    background-color: rgb(0, 255, 136);
+    border-radius: 8px;
+    padding: 15px;
+    margin: 4%;
+    
+   
+}
+.box-two
+{
+    width: 25%;
+    background-color: rgb(0, 255, 255);
+    border-radius: 8px;
+    padding: 15px;
+    margin: 4%;
+    
+   
+}
+.box-three
+{
+    width: 25%;
+    background-color: rgb(0, 255, 136);
+    border-radius: 8px;
+    padding: 15px;
+    margin: 4%;
+    
+   
+}
+.illustration-1{
+    width: 50%;
+}
+.coding-part
+{
+    display: flex;
+    width: 100%;
+}
+.coding
+{
+    
+    width: 70%;
+    margin-left: 10%;
+    
+}
+.limits
+{
+    padding-top: 5%;
+}
+.bg-photo
+{
+    background-image: url(images/shape-1.png);
+    background-position-x: right ;
+    background-size: 20%;
+    background-repeat: no-repeat;
+}
+.global-community
+{
+    display: flex;
+}
+.global-img
+{
+    width: 70%;
+    margin-left: 18%;
+    
+}
+.global-text
+{
+    margin-left: 4%;
+    margin-top: 4%;
+}
+.documentation
+{
+    padding-top: 15px;
+}
