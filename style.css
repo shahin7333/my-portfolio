@@ -131,3 +131,27 @@ text-decoration: none;
 {
     padding-top: 15px;
 }
+#think-developer
+{
+    margin-top: 35px;
+}
+.think
+{
+    width: 180%;
+}
+.our-website
+{
+    width: 50%;
+    margin-left: 20%;
+    margin-top: 5%;
+}
+.plant-tree
+{
+    text-align: center;
+   background-color: black;
+   padding: 1%;
+}
+.footer-mission
+{
+    color: white;
+}
